@@ -1,3 +1,4 @@
 {
-    "vscode-corda.isCordaProject": false
+    "vscode-corda.isCordaProject": false,
+    "cmake.sourceDirectory": "/Users/macbookair/Desktop/dart intro/flutter001/flutter001/linux"
 }
